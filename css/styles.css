@@ -1,0 +1,23 @@
+    body {
+        background-color: #fefaec;
+    }
+    h1 {
+        color: #625772;
+    }
+    h3 {
+        color: #625772;
+    }
+    .dotted_line {
+        border-color: #f38181;
+        border-style: none;
+        border-top-style: dotted;
+        border-width: 5px;
+        width: 33%;
+        margin-top: 20px;
+    }
+    #profile_pic {
+        border-radius: 50%;
+        object-fit: none;
+        width: 200px;
+        height: 200px;
+    }
